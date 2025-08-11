@@ -7,8 +7,8 @@ Configure DHCP to assign IP addresses and NAT overload for internet access.
 ## IP Address Plan
 | Interface/Device | IP Address     | Subnet Mask     |
 |------------------|---------------|----------------|
-| Router0 Gi0/1    | 192.168.1.1   | 255.255.255.0  |
-| Router0 Gi0/0    | 200.0.0.2     | 255.255.255.252|
+| Router1 Gi0/1    | 192.168.1.1   | 255.255.255.0  |
+| Router2 Gi0/0    | 200.0.0.2     | 255.255.255.252|
 | ISP              | 200.0.0.1     | 255.255.255.252|
 
 ## Router Configuration
